@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\khoanp\\Desktop\\Xamarin Android\\XamarinEssetial\\XamarinEssetial\\XamarinEssetial.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\khoanp\\Desktop\\Xamarin Android\\XamarinEssetial\\XamarinEssetial\\XamarinEssetial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khoanp\\Desktop\\Xamarin Android\\XamarinEssetial\\XamarinEssetial\\XamarinEssetial.csproj",
+        "projectName": "XamarinEssetial",
+        "projectPath": "C:\\Users\\khoanp\\Desktop\\Xamarin Android\\XamarinEssetial\\XamarinEssetial\\XamarinEssetial.csproj",
+        "packagesPath": "C:\\Users\\khoanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khoanp\\Desktop\\Xamarin Android\\XamarinEssetial\\XamarinEssetial\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\khoanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[26.1.0.1, )"
+            },
+            "Xamarin.Android.Support.Core.UI": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[26.0.2, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[26.0.2, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.1.1.2, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.V4": {
+              "target": "Package",
+              "version": "[1.0.0.9, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

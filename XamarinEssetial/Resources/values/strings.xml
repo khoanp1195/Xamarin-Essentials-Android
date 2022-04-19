@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Xamarin Essential</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="mapkey">AIzaSyDba2XwM9Y8X5Kz_Ui8dnIzrH_YriwOOhs</string>
+
+	<string name="Hello">Hello World, Click Me!</string>
+
+	<string name="desc1">Have many question help you improve my knowledge</string>
+	<string name="desc2">My Course help you know \n The Nation Flag</string>
+
+	<string-array name="dropdown_array">
+		<item>Choose A Problem</item>
+		<item>Error</item>
+		<item>Update Question</item>
+		<item>Error during playing</item>
+		<item>Error Score</item>
+	
+	</string-array>
+</resources>

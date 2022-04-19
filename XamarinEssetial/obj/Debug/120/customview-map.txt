@@ -1,0 +1,57 @@
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\120\res\layout\activity_main2.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\120\res\layout\register.xml
+androidx.drawerlayout.widget.DrawerLayout;obj\Debug\120\res\layout\activity_main2.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+bitmap;obj\Debug\120\res\drawable\splash.xml
+Button;obj\Debug\120\res\layout\flashlight.xml
+Button;obj\Debug\120\res\layout\register.xml
+Button;obj\Debug\120\res\layout\screenshot.xml
+Button;obj\Debug\120\res\layout\sentsms.xml
+Button;obj\Debug\120\res\layout\sharefile.xml
+Button;obj\Debug\120\res\layout\themedetection.xml
+cache-path;C:\Users\khoanp\Desktop\Xamarin Android\XamarinEssetial\XamarinEssetial\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\120\res\drawable\splash.xml
+color;obj\Debug\120\res\values\colors.xml
+color;obj\Debug\120\res\values\ic_launcher_background.xml
+com.google.android.material.appbar.AppBarLayout;obj\Debug\120\res\layout\activity_main2.xml
+com.google.android.material.navigation.NavigationView;obj\Debug\120\res\layout\activity_main2.xml
+EditText;obj\Debug\120\res\layout\register.xml
+EditText;obj\Debug\120\res\layout\sentsms.xml
+EditText;obj\Debug\120\res\layout\sharefile.xml
+external-cache-path;C:\Users\khoanp\Desktop\Xamarin Android\XamarinEssetial\XamarinEssetial\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\khoanp\Desktop\Xamarin Android\XamarinEssetial\XamarinEssetial\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;obj\Debug\120\res\layout\headerlayout.xml
+group;obj\Debug\120\res\menu\menu1.xml
+ImageView;obj\Debug\120\res\layout\register.xml
+ImageView;obj\Debug\120\res\layout\screenshot.xml
+item;obj\Debug\120\res\drawable\splash.xml
+item;obj\Debug\120\res\menu\menu1.xml
+item;obj\Debug\120\res\values\strings.xml
+item;obj\Debug\120\res\values\styles.xml
+layer-list;obj\Debug\120\res\drawable\splash.xml
+LinearLayout;obj\Debug\120\res\layout\deviceinformation.xml
+LinearLayout;obj\Debug\120\res\layout\flashlight.xml
+LinearLayout;obj\Debug\120\res\layout\screenshot.xml
+LinearLayout;obj\Debug\120\res\layout\sentsms.xml
+LinearLayout;obj\Debug\120\res\layout\sharefile.xml
+LinearLayout;obj\Debug\120\res\layout\themedetection.xml
+menu;obj\Debug\120\res\menu\menu1.xml
+paths;C:\Users\khoanp\Desktop\Xamarin Android\XamarinEssetial\XamarinEssetial\obj\Debug\120\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\120\res\layout\activity_main2.xml
+resources;obj\Debug\120\res\values\colors.xml
+resources;obj\Debug\120\res\values\ic_launcher_background.xml
+resources;obj\Debug\120\res\values\strings.xml
+resources;obj\Debug\120\res\values\styles.xml
+string;obj\Debug\120\res\values\strings.xml
+string-array;obj\Debug\120\res\values\strings.xml
+style;obj\Debug\120\res\values\styles.xml
+TextView;obj\Debug\120\res\layout\deviceinformation.xml
+TextView;obj\Debug\120\res\layout\headerlayout.xml
+TextView;obj\Debug\120\res\layout\register.xml
+TextView;obj\Debug\120\res\layout\sentsms.xml
+View;obj\Debug\120\res\layout\headerlayout.xml
